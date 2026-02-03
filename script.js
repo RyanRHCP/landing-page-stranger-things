@@ -57,11 +57,13 @@ gsap.from('footer', {
 })
 
 
-let split = SplitText.create(".split", { type: "words, chars" });
+const split = SplitText.create(".split", { 
+    type: "lines, words, chars",
+    mask: "lines"
+});
 
 gsap.from(split.chars, {
-  duration: 0.2, 
-  y: 30,       
-  autoAlpha: 0, 
-  stagger: 0.05
+  duration: .3, 
+  y: 40,       
+  stagger: .05
 });
