@@ -3,13 +3,10 @@
 Projeto de **landing page temática inspirada na série Stranger Things**, desenvolvido com **HTML, CSS, JavaScript e GSAP**.  
 O objetivo do projeto é criar uma experiência visual imersiva, utilizando animações suaves, transições dinâmicas e uma identidade visual sombria que remete ao universo da série.
 
----
-
 ## 🔎 Visualize o projeto
 
 👉 https://ryanrhcp.github.io/landing-page-stranger-things/
 
----
 
 ## ✨ Funcionalidades
 
@@ -19,7 +16,6 @@ O objetivo do projeto é criar uma experiência visual imersiva, utilizando anim
 - Efeitos visuais inspirados na atmosfera de Stranger Things
 - Interface moderna e interativa
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -28,14 +24,12 @@ O objetivo do projeto é criar uma experiência visual imersiva, utilizando anim
 - **JavaScript (ES6+)** – Interatividade e lógica
 - **GSAP** – Animações e efeitos visuais
 
----
 
 ## ⚙️ Pré-requisitos
 
 - Navegador web moderno
 - Conexão com a internet para carregamento da biblioteca GSAP via CDN
 
----
 
 ## 🚀 Como executar o projeto
 
